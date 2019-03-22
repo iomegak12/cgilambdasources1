@@ -1,0 +1,11 @@
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\bin\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.deps.json
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\bin\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.runtimeconfig.json
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\bin\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.runtimeconfig.dev.json
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\bin\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.dll
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\bin\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.pdb
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.csprojAssemblyReference.cache
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.csproj.CoreCompileInputs.cache
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.AssemblyInfoInputs.cache
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.AssemblyInfo.cs
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.dll
+C:\DevOps\AWS\Demonstrations\UnderstandingLambdaSolution\UnderstandingLambda\obj\Release\netcoreapp2.1\linux-x64\UnderstandingLambda.pdb
